@@ -1,0 +1,27 @@
+
+-characters:
+	└>either complete party or only one character
+
+-fighting:
+	└>different fighting mechanics
+		└>enemies left, party right
+		└>party on bottom(front), enemies on top(back)
+		└>maybe fighting direct in the map (casting spells & such)
+
+-map:
+	└>Tiled Support
+
+-magic:
+	└>different types
+
+-skills/experience:
+	└>
+
+-Weapons/Items:
+	└>Items:
+		└>
+	└>Weapons:
+		└>
+	└>Shops:
+		└>
+		
